@@ -1,4 +1,6 @@
 flask
+requirements.txt  
 joblib
 scikit-learn
 gunicorn
+
